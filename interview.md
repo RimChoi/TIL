@@ -2,8 +2,8 @@
 <h3>java</h3>
 
 + [call by value vs call by ref](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
-+ [String vs String Builder, String Buffer](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)
-+ [추상 클래스, 인터페이스]()
++ [String vs String Builder, String Buffer](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20String%20StringBuilder%20StringBuffer%20%EC%B0%A8%EC%9D%B4.md)
++ [추상 클래스, 인터페이스](https://brunch.co.kr/@kd4/6)
 + [upcasting, downcasting](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Upcasting%20%26%20Downcasting.md#upcasting--downcasting)
 + [java type](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Primitive%20type%20%26%20Reference%20type.md#primitive-type--reference-type)
 + [Thread](https://honbabzone.com/java/java-thread/)
